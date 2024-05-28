@@ -1,8 +1,8 @@
 {
     "credentials": {
-        "tenantID": "Enter_the_Tenant_ID",
-        "clientID": "Enter_the_Client_ID",
-        "audience": "Enter_the_Client_ID"
+        "tenantID": "f7ce24fc-5558-4bac-9c44-d16c28b5bc55",
+        "clientID": "cdcf9d62-5af3-4239-a803-5cde1e72bbd6",
+        "audience": "cdcf9d62-5af3-4239-a803-5cde1e72bbd6"
     },
     "metadata": {
         "authority": "login.microsoftonline.com",
@@ -12,6 +12,7 @@
     "settings": {
         "validateIssuer": true,
         "passReqToCallback": false,
-        "loggingLevel": "info"
+        "loggingLevel": "info",
+        "loggingNoPII": false
     }
 }

@@ -16,6 +16,7 @@ const options = {
     validateIssuer: config.settings.validateIssuer,
     passReqToCallback: config.settings.passReqToCallback,
     loggingLevel: config.settings.loggingLevel,
+    loggingNoPII: config.settings.loggingNoPII,
     scope: EXPOSED_SCOPES
 };
 
